@@ -14,7 +14,7 @@
 <img align="center" alt="React" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCR7)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
