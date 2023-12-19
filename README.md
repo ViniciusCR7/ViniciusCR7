@@ -2,6 +2,7 @@
 [![Blog]( https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](#)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusCR7&show_icons=true&theme=merko)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCR7)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Teconologias que eu uso no meu dia
 
@@ -14,7 +15,6 @@
 <img align="center" alt="React" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCR7)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
